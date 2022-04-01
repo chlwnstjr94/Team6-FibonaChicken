@@ -12,6 +12,20 @@ Date : 2022-04-01
 제켄도르프의정리의 의거하여 최고의 황금비를 goqhwk
 그리고 다같이 맜있는 치킨을 뜯읍시다!
 
+---
+### Information for game
+
+- 피보나치킨 웹사이트
+    * <https://fibonachicken.herokuapp.com/#>
+
+- 피보나치킨 관련 링크들
+    * <https://fibonachicken.herokuapp.com/>
+    * <https://codingdojang.com/scode/596>
+    * <https://blog.naver.com/51tops/220212504994>
+    * <https://newdeal123.tistory.com/78>
+    * <https://youtu.be/lIZw27IE5Tg>
+
+=======
 ## 원리
 
 ### 피보나치 수열이란?
